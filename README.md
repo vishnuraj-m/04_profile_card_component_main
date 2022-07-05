@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+- https://vishnuraj-m-dev.github.io/04_profile_card_component_main/index.html
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
